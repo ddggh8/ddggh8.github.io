@@ -42,8 +42,14 @@
 首选telegram
 常用的 Telegram 群组搜索机器人推荐
 
-极搜： https://t.me/jisou?start=a_7278846973可搜任何资源
+极搜： https://t.me/jisou?start=a_7278846973
 
-中文搜索群： https://t.me/xueyuuqbot/万人大群，看别人搜啥
+可搜任何资源
 
-吃瓜猎奇群： https://t.me/xueyuuq/万人吃瓜群
+中文搜索群： https://t.me/xueyuuqbot/
+
+万人大群，看别人搜啥
+
+吃瓜猎奇群： https://t.me/xueyuuq/
+
+万人吃瓜群
